@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/zoyamunawar/ZoyaMunawarAhmed/blob/main/images/banner.jpg")
+![MasterHead](https://github.com/zoyamunawar/zoyamunawar/blob/main/images/banner.jpg")
 <!-- Profile Banner -->
 <br clear="both">
 <p align="center">
