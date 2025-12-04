@@ -2,7 +2,7 @@
 <!-- Profile Banner -->
 <br clear="both">
 <p align="center">
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=zoyamunawar.ZoyaMunawarAhmed&"  />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=zoyamunawar.zoyamunawar&"  />
 </p>
 
 <h1 align="center">Hi, I'm Zoya Munawwar Minhas 👋</h1>
@@ -98,11 +98,9 @@ Strong communication, documentation, and teamwork skills.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zoyamunawer&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoyamunawer&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=zoyamunawer&theme=tokyonight" alt="GitHub Streak"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=zoyamunawer&label=Profile+Views&color=orange&style=flat-square" alt="Profile Views"/>
 </p>
-
----
 
 ⭐ *"Learning every day, building solutions that matter."*
