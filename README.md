@@ -95,25 +95,25 @@ Strong in **communication, documentation, and teamwork**.
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedMuhammadArsalanShah&show_icons=true&theme=discord_old_blurple&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zoyamunawer&show_icons=true&theme=discord_old_blurple&hide_border=true" 
     height="150"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMuhammadArsalanShah&layout=compact&theme=discord_old_blurple&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zoyamunawer&layout=compact&theme=discord_old_blurple&hide_border=true" 
     height="150"
   />
 
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&theme=discord_old_blurple&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=zoyamunawer&theme=discord_old_blurple&hide_border=true" 
     height="150"
   />
 
   <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadArsalanShah&theme=react-dark&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zoyamunawer&theme=react-dark&area=true&hide_border=true" 
     height="300"
   />
 
