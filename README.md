@@ -92,9 +92,15 @@ Strong communication, documentation, and teamwork skills.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoyamunawar&show_icons=true&theme=tokyonight" />
+  ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zoyamunawar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=zoyamunawar&theme=tokyonight" alt="GitHub Streak"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=zoyamunawar&label=Profile+Views&color=orange&style=flat-square" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=zoyamunawar&theme=tokyonight" />
 
 </p>
 
