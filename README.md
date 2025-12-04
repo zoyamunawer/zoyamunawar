@@ -88,33 +88,35 @@ Strong in **communication, documentation, and teamwork**.
 - 🛒 **E-commerce Website**  
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- Main GitHub Stats -->
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=zoyamunawar&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zoyamunawer&show_icons=true&theme=tokyonight&hide_border=true" 
     height="150" 
-  />
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=zoyamunawar&theme=tokyonight&hide_border=true" 
-    height="150" 
+    alt="stats graph"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyamunawar&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zoyamunawer&layout=compact&theme=tokyonight&hide_border=true" 
     height="150" 
+    alt="languages graph"
   />
 
-  <!-- Activity Graph -->
+  <!-- Streak Stats -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zoyamunawar&theme=react-dark&area=true&hide_border=true" 
-    height="300" 
+    src="https://streak-stats.demolab.com/?user=zoyamunawer&theme=tokyonight&hide_border=true" 
+    height="150" 
+    alt="streak graph"
+  />
+
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=zoyamunawer&label=Profile+Views&color=orange&style=flat-square" 
+    height="35"
   />
 
 </div>
