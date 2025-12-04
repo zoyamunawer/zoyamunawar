@@ -90,36 +90,35 @@ Strong in **communication, documentation, and teamwork**.
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+
+  <div align="center">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zoyamunawer&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="150" 
-    alt="stats graph"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedMuhammadArsalanShah&show_icons=true&theme=discord_old_blurple&hide_border=true" 
+    height="150"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zoyamunawer&layout=compact&theme=tokyonight&hide_border=true" 
-    height="150" 
-    alt="languages graph"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMuhammadArsalanShah&layout=compact&theme=discord_old_blurple&hide_border=true" 
+    height="150"
   />
 
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com/?user=zoyamunawer&theme=tokyonight&hide_border=true" 
-    height="150" 
-    alt="streak graph"
+    src="https://streak-stats.demolab.com?user=SyedMuhammadArsalanShah&theme=discord_old_blurple&hide_border=true" 
+    height="150"
   />
 
-  <!-- Profile Views -->
+  <!-- Activity Graph -->
   <img 
-    src="https://komarev.com/ghpvc/?username=zoyamunawer&label=Profile+Views&color=orange&style=flat-square" 
-    height="35"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadArsalanShah&theme=react-dark&area=true&hide_border=true" 
+    height="300"
   />
 
 </div>
+
 
 ---
 
